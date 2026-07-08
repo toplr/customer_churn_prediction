@@ -6,7 +6,7 @@ Date: May 2026
 
 ## Project Overview
 
-This academic project leverages Python and Scikit-Learn to isolate highly correlative business variables and build predictive models for company customer churn.
+This project leverages Python and Scikit-Learn to isolate highly correlative business variables and build predictive models for company customer churn.
 
 
 ## Data Source
